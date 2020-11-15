@@ -1,11 +1,13 @@
-# Hello guys
+# Hello guys 👋
 
 my name is Geovani, I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
 
-📈 Github Stats
+📈 Github Stats:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamageo)](https://github.com/iamageo/github-readme-stats)
 
-🔝 Tops Langs
+🔝 Tops Langs:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamageo)](https://github.com/iamageo/github-readme-stats)
 
 
