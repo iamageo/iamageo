@@ -1,6 +1,6 @@
 # Hello guys 👋
 
-my name is Geovani, I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
+My name is Geovani, I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
