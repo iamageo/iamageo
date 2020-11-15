@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/iamageo/<OWNER>/<OWNER>/readme_header.png "Header")]
+Hello, my name is Geovani, I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamageo)](https://github.com/iamageo/github-readme-stats)
 
