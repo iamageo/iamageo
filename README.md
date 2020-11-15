@@ -2,6 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamageo)](https://github.com/iamageo/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamageo)](https://github.com/iamageo/github-readme-stats)
 
 
 <!--
