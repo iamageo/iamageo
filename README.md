@@ -6,7 +6,7 @@
 ## About me
 I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
 
-* 🌱 I’m currently learning HTML, CSS, Python, JavaScript and Android.
+* 🌱 I’m currently learning HTML, CSS, Python, JavaScript and Java.
 * 🔭 I’m currently working on creating the apliccations and learning and sites.
 
 
