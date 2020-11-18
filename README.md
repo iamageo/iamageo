@@ -1,25 +1,22 @@
 # Hello guys 👋
 
-My name is Geovani, I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iamageo)](https://github.com/iamageo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamageo/)](https://www.linkedin.com/in/iamageo/)
 
+## About me
+I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
 
 * 🌱 I’m currently learning HTML, CSS, Python, JavaScript and Android.
 * 🔭 I’m currently working on creating the apliccations and learning and sites.
 
 
-🚀 Skills:
-https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white
-
-
 <!--
 **iamageo/iamageo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
+
 Here are some ideas to get you started:
-
-📈 Github Stats:
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamageo)](https://github.com/iamageo/github-readme-stats)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
