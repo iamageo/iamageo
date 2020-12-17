@@ -1,13 +1,12 @@
-  # Hello guys 👋
+  # Hi, I'm Geovani 👋
 
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iamageo)](https://github.com/iamageo)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/iamageo)](linkedin.com/in/iamageo)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovani.af4@gmail.com)](mailto:geovani.af4@gmail.com)
 
   ## About me
   I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
 
-  * 🌱 I’m currently learning HTML, CSS, Python, JavaScript and Java.
+  * 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Java.
   * 🔭 I’m currently working on creating the apliccations and learning and sites.
 
   ### Languages and Tools:
