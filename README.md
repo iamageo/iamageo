@@ -1,13 +1,15 @@
-  # Hi, I'm Geovani 👋
+  # Hi, i'm Geovani Amral 👋
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/iamageo)](linkedin.com/in/iamageo)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovani.af4@gmail.com)](mailto:geovani.af4@gmail.com)
 
   ## About me
   I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
+  
+  🥰 Passionate about android development 🥰
 
-  * 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Java.
-  * 🔭 I’m currently working on creating the apliccations and learning and sites.
+  * 🌱 I’m currently learning Java, JavaScript and Kotlin.
+  * 🚀 I'm always trying to create something incredible.
 
   ### Languages and Tools:
 
