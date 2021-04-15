@@ -6,6 +6,7 @@
   I'am 22 years old and I am currently graduating in the computer engineering course by the Federal University of Pará. 💻
   
   🥰 Passionate about android development 🥰
+            🥰 JS enthusiast 🥰
 
   * 🌱 I’m currently learning Java, JavaScript and Kotlin.
   * 🚀 I'm always trying to create something incredible.
