@@ -22,4 +22,6 @@ object iamageo {
   * 🌱 I’m currently learning Java, JavaScript and Kotlin.
   * 🚀 I'm always trying to create something incredible.
 
-[![iamageo](https://github-readme-stats.vercel.app/api/top-langs/?username=iamageo&hide=html&layout=compact&theme=dark)](https://github.com/iamageo/)
+<h4 align="center">
+[![iamageo](https://github-readme-stats.vercel.app/api?username=iamageo&theme=dark)](https://github.com/iamageo/)
+</h4>
