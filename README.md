@@ -24,3 +24,5 @@ object iamageo {
 
 [![iamageo](https://github-readme-stats.vercel.app/api?username=iamageo&theme=dark)](https://github.com/iamageo/)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamageo&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true" alt="iamageo" /></a> 
+</p>
