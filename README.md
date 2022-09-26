@@ -7,9 +7,10 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=iamageo&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
 
-### 📕 Last posts 
+### 📕 Ultimas postagens
 
-- [Como criar uma SplashScreen no Android.](https://medium.com/@iamageo/como-criar-uma-splashscreen-no-android-e9ec66e6e753)
+- [Como criar e publicar uma Biblioteca Android.](https://medium.com/@iamageo/como-criar-e-publicar-uma-biblioteca-android-a3d058387562)
 - [Animando itens de um RecyclerView no Android.](https://medium.com/@iamageo/animando-itens-de-um-recyclerview-no-android-61a1fa5f7e2)
+- [Como criar uma SplashScreen no Android.](https://medium.com/@iamageo/como-criar-uma-splashscreen-no-android-e9ec66e6e753)
 
 ➡️ [mais...](https://medium.com/@iamageo)
