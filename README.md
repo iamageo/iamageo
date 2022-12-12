@@ -5,7 +5,7 @@
 <a href="https://medium.com/@iamageo"><img alt="Medium" src="https://user-images.githubusercontent.com/26925002/189384719-590fbe25-275a-4dcc-a927-20067558b3b7.svg"/></a>
 <a href="https://github.com/sponsors/iamageo"><img alt="Sponsors" src="https://user-images.githubusercontent.com/26925002/189384730-cc3ac4b0-6444-43d9-9d66-099627298a40.svg"/></a>
 
-![stats](https://github-readme-stats.vercel.app/api?username=iamageo&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
+<!--![stats](https://github-readme-stats.vercel.app/api?username=iamageo&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)-->
 
 ### 📕 Ultimas postagens
 
