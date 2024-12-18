@@ -22,5 +22,3 @@ I've contributed to open-source projects like:
 
 - [`Seal`](https://github.com/JunkFood02/Seal): Video/Audio Downloader for Android.
 
-- [`Tachiyomi`](https://github.com/Seishirou101/tachiyomi): Tachiyomi is a free and open source manga reader for Android 6.0 and above.
-
