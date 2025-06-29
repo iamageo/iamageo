@@ -16,9 +16,3 @@
 | [MultiFab](https://github.com/iamageo/MultiFab) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | An efficient and beaufitul Multi Float action button library based on Twitter implemented in Jetpack Compose | ![](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/iamageo/MultiFab)
 | [MagicTabLayout](https://github.com/iamageo/MagicTabLayout) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | An efficient TabLayout implemented in Jetpack Compose  | ![](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/github/stars/iamageo/MagicTabLayout)
 
-## 📚 Open Source Contributions
-
-I've contributed to open-source projects like:
-
-- [`Seal`](https://github.com/JunkFood02/Seal): Video/Audio Downloader for Android.
-
